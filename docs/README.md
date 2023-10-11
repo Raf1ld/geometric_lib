@@ -125,6 +125,30 @@
 ### Square: P = 4a
         perimeter (5)
         >> 40
-
+## solution history
+        *   commit 056408d5c17b0d85efc77e81a796c4633c77fd81
+        |\  Merge: d078c8d bca0268
+        | | Author: Raf1ld <144904807+Raf1ld@users.noreply.github.com>
+        | | Date:   Sat Sep 16 12:53:42 2023 +0300
+        | |
+        | |     Merge branch 'new_features_409305'
+        | |
+        | * commit bca026843ea0e5ffdbdb25d4faf95cb0b13e99f2
+        | | Author: Raf1ld <144904807+Raf1ld@users.noreply.github.com>
+        | | Date:   Sat Sep 16 12:16:57 2023 +0300
+        | |
+        | |     rectangle modified
+        | |
+        | * commit c8c0227b9708ec8117e62bfe6ae8af5191f7f975
+        | | Author: Raf1ld <144904807+Raf1ld@users.noreply.github.com>
+        | | Date:   Sat Sep 16 12:13:13 2023 +0300
+        | |
+        | |     triengle add
+        | |
+        | * commit 908d1baad503ab3ffa9947af881fc078900e9b6e
+        |/  Author: Raf1ld <144904807+Raf1ld@users.noreply.github.com>
+        |   Date:   Sat Sep 16 12:05:57 2023 +0300
+        |
+        |       rectangle add
 
  
